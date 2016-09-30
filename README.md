@@ -9,3 +9,5 @@ List of problems:
 3. [Largest prime factor]{https://www.hackerrank.com/contests/projecteuler/challenges/euler003}
 4. [Largest palindrom]{https://www.hackerrank.com/contests/projecteuler/challenges/euler004}
 5.[Smallest multiple]{https://www.hackerrank.com/contests/projecteuler/challenges/euler005}
+6. [Sum Squre]{https://www.hackerrank.com/contests/projecteuler/challenges/euler006}
+7.[10001st prime]{https://www.hackerrank.com/contests/projecteuler/challenges/euler007}
