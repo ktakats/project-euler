@@ -10,4 +10,5 @@ List of problems:
 4. [Largest palindrom]{https://www.hackerrank.com/contests/projecteuler/challenges/euler004}
 5.[Smallest multiple]{https://www.hackerrank.com/contests/projecteuler/challenges/euler005}
 6. [Sum Squre]{https://www.hackerrank.com/contests/projecteuler/challenges/euler006}
-7.[10001st prime]{https://www.hackerrank.com/contests/projecteuler/challenges/euler007}
+7. [10001st prime]{https://www.hackerrank.com/contests/projecteuler/challenges/euler007}
+8. [Largest product in series]{https://www.hackerrank.com/contests/projecteuler/challenges/euler008}
