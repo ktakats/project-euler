@@ -12,3 +12,4 @@ List of problems:
 6. [Sum Squre]{https://www.hackerrank.com/contests/projecteuler/challenges/euler006}
 7. [10001st prime]{https://www.hackerrank.com/contests/projecteuler/challenges/euler007}
 8. [Largest product in series]{https://www.hackerrank.com/contests/projecteuler/challenges/euler008}
+9. [Special Pythagorean triplet]{https://www.hackerrank.com/contests/projecteuler/challenges/euler009}
