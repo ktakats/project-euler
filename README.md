@@ -16,3 +16,4 @@ List of problems:
 19. [Counting Sundays](https://www.hackerrank.com/contests/projecteuler/challenges/euler019)
 20. [Factorial digit sum](https://www.hackerrank.com/contests/projecteuler/challenges/euler020/submissions/code/7274333)
 21. [Amicable numbers](https://www.hackerrank.com/contests/projecteuler/challenges/euler021)
+22. [Names scores](https://www.hackerrank.com/contests/projecteuler/challenges/euler022)
