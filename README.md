@@ -15,3 +15,4 @@ List of problems:
 9. [Special Pythagorean triplet](https://www.hackerrank.com/contests/projecteuler/challenges/euler009)
 19. [Counting Sundays](https://www.hackerrank.com/contests/projecteuler/challenges/euler019)
 20. [Factorial digit sum](https://www.hackerrank.com/contests/projecteuler/challenges/euler020/submissions/code/7274333)
+21. [Amicable numbers](https://www.hackerrank.com/contests/projecteuler/challenges/euler021)
