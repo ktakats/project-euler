@@ -27,3 +27,4 @@ List of problems:
 21. [Amicable numbers](https://www.hackerrank.com/contests/projecteuler/challenges/euler021)
 22. [Names scores](https://www.hackerrank.com/contests/projecteuler/challenges/euler022)
 23. [Non-abundant sums](https://www.hackerrank.com/contests/projecteuler/challenges/euler023)
+24. [Lexicographic permutations](https://www.hackerrank.com/contests/projecteuler/challenges/euler024)
