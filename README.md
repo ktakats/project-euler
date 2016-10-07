@@ -28,3 +28,4 @@ List of problems:
 22. [Names scores](https://www.hackerrank.com/contests/projecteuler/challenges/euler022)
 23. [Non-abundant sums](https://www.hackerrank.com/contests/projecteuler/challenges/euler023)
 24. [Lexicographic permutations](https://www.hackerrank.com/contests/projecteuler/challenges/euler024)
+25. [N-digit Fibonacci number](https://www.hackerrank.com/contests/projecteuler/challenges/euler025)
