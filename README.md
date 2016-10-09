@@ -15,7 +15,7 @@ List of problems:
 9. [Special Pythagorean triplet](https://www.hackerrank.com/contests/projecteuler/challenges/euler009)
 10. [Summation of primes](https://www.hackerrank.com/contests/projecteuler/challenges/euler010)
 11. [Largest product in a grid](https://www.hackerrank.com/contests/projecteuler/challenges/euler011)
-12. []()
+12. [Highly divisible triangular number](https://www.hackerrank.com/contests/projecteuler/challenges/euler012)
 13. []()
 14. []()
 15. []()
