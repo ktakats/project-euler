@@ -29,5 +29,5 @@ List of problems:
 23. [Non-abundant sums](https://www.hackerrank.com/contests/projecteuler/challenges/euler023)
 24. [Lexicographic permutations](https://www.hackerrank.com/contests/projecteuler/challenges/euler024)
 25. [N-digit Fibonacci number](https://www.hackerrank.com/contests/projecteuler/challenges/euler025)
-26. []()
+26. [Reciprocal cycles](https://www.hackerrank.com/contests/projecteuler/challenges/euler026)
 27. [Quadratic primes](https://www.hackerrank.com/contests/projecteuler/challenges/euler027)
