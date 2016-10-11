@@ -31,3 +31,4 @@ List of problems:
 25. [N-digit Fibonacci number](https://www.hackerrank.com/contests/projecteuler/challenges/euler025)
 26. [Reciprocal cycles](https://www.hackerrank.com/contests/projecteuler/challenges/euler026)
 27. [Quadratic primes](https://www.hackerrank.com/contests/projecteuler/challenges/euler027)
+28. [Number spiral](https://www.hackerrank.com/contests/projecteuler/challenges/euler028)
