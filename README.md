@@ -32,3 +32,4 @@ List of problems:
 26. [Reciprocal cycles](https://www.hackerrank.com/contests/projecteuler/challenges/euler026)
 27. [Quadratic primes](https://www.hackerrank.com/contests/projecteuler/challenges/euler027)
 28. [Number spiral](https://www.hackerrank.com/contests/projecteuler/challenges/euler028)
+29. [Distinct powers](https://www.hackerrank.com/contests/projecteuler/challenges/euler029)
