@@ -33,3 +33,4 @@ List of problems:
 27. [Quadratic primes](https://www.hackerrank.com/contests/projecteuler/challenges/euler027)
 28. [Number spiral](https://www.hackerrank.com/contests/projecteuler/challenges/euler028)
 29. [Distinct powers](https://www.hackerrank.com/contests/projecteuler/challenges/euler029)
+30. [Digit Nth powers](https://www.hackerrank.com/contests/projecteuler/challenges/euler030)
