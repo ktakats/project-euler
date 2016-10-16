@@ -16,7 +16,7 @@ List of problems:
 10. [Summation of primes](https://www.hackerrank.com/contests/projecteuler/challenges/euler010)
 11. [Largest product in a grid](https://www.hackerrank.com/contests/projecteuler/challenges/euler011)
 12. [Highly divisible triangular number](https://www.hackerrank.com/contests/projecteuler/challenges/euler012)
-13. []()
+13. [Large sum](https://www.hackerrank.com/contests/projecteuler/challenges/euler013)
 14. []()
 15. []()
 16. []()
