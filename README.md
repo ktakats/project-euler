@@ -38,3 +38,7 @@ List of problems:
 32. []()
 33. []()
 34. [Digit factorials](https://www.hackerrank.com/contests/projecteuler/challenges/euler034)
+35.
+36.
+37.
+38. [Pandigital multiples](https://www.hackerrank.com/contests/projecteuler/challenges/euler038)
