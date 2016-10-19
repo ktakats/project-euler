@@ -34,8 +34,8 @@ List of problems:
 28. [Number spiral](https://www.hackerrank.com/contests/projecteuler/challenges/euler028)
 29. [Distinct powers](https://www.hackerrank.com/contests/projecteuler/challenges/euler029)
 30. [Digit Nth powers](https://www.hackerrank.com/contests/projecteuler/challenges/euler030)
-31. []()
-32. []()
+31. [Coin sums](https://www.hackerrank.com/contests/projecteuler/challenges/euler031)
+32. [Pandigital products](https://www.hackerrank.com/contests/projecteuler/challenges/euler032)
 33. []()
 34. [Digit factorials](https://www.hackerrank.com/contests/projecteuler/challenges/euler034)
 35.
