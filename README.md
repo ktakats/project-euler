@@ -40,5 +40,5 @@ List of problems:
 34. [Digit factorials](https://www.hackerrank.com/contests/projecteuler/challenges/euler034)
 35. [Circular primes](https://www.hackerrank.com/contests/projecteuler/challenges/euler035)
 36. [Double-base palindrom](https://www.hackerrank.com/contests/projecteuler/challenges/euler036)
-37.
+37. [Truncatable primes](https://www.hackerrank.com/contests/projecteuler/challenges/euler037)
 38. [Pandigital multiples](https://www.hackerrank.com/contests/projecteuler/challenges/euler038)
