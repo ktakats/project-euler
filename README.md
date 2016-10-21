@@ -42,3 +42,4 @@ List of problems:
 36. [Double-base palindrom](https://www.hackerrank.com/contests/projecteuler/challenges/euler036)
 37. [Truncatable primes](https://www.hackerrank.com/contests/projecteuler/challenges/euler037)
 38. [Pandigital multiples](https://www.hackerrank.com/contests/projecteuler/challenges/euler038)
+39. [Integer right triangles](https://www.hackerrank.com/contests/projecteuler/challenges/euler039)
