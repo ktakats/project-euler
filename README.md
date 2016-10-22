@@ -43,3 +43,5 @@ List of problems:
 37. [Truncatable primes](https://www.hackerrank.com/contests/projecteuler/challenges/euler037)
 38. [Pandigital multiples](https://www.hackerrank.com/contests/projecteuler/challenges/euler038)
 39. [Integer right triangles](https://www.hackerrank.com/contests/projecteuler/challenges/euler039)
+40. []()
+41. [Pandigital prime](https://www.hackerrank.com/contests/projecteuler/challenges/euler041)
