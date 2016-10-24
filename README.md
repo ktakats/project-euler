@@ -46,4 +46,5 @@ List of problems:
 40. []()
 41. [Pandigital prime](https://www.hackerrank.com/contests/projecteuler/challenges/euler041)
 42. [Coded triangle numbers](https://www.hackerrank.com/contests/projecteuler/challenges/euler042)
-43. [Sub-string divisibility](https://www.hackerrank.com/contests/projecteuler/challenges/euler043) 
+43. [Sub-string divisibility](https://www.hackerrank.com/contests/projecteuler/challenges/euler043)
+44. [Pentagon numbers](https://www.hackerrank.com/contests/projecteuler/challenges/euler044) 
