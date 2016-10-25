@@ -48,4 +48,5 @@ List of problems:
 42. [Coded triangle numbers](https://www.hackerrank.com/contests/projecteuler/challenges/euler042)
 43. [Sub-string divisibility](https://www.hackerrank.com/contests/projecteuler/challenges/euler043)
 44. [Pentagon numbers](https://www.hackerrank.com/contests/projecteuler/challenges/euler044)
-44. [Triangular, pentagonal, hexagonal](https://www.hackerrank.com/contests/projecteuler/challenges/euler045) 
+45. [Triangular, pentagonal, hexagonal](https://www.hackerrank.com/contests/projecteuler/challenges/euler045)
+46. [Goldbach's other conjecture](https://www.hackerrank.com/contests/projecteuler/challenges/euler046) 
