@@ -49,4 +49,10 @@ List of problems:
 43. [Sub-string divisibility](https://www.hackerrank.com/contests/projecteuler/challenges/euler043)
 44. [Pentagon numbers](https://www.hackerrank.com/contests/projecteuler/challenges/euler044)
 45. [Triangular, pentagonal, hexagonal](https://www.hackerrank.com/contests/projecteuler/challenges/euler045)
-46. [Goldbach's other conjecture](https://www.hackerrank.com/contests/projecteuler/challenges/euler046) 
+46. [Goldbach's other conjecture](https://www.hackerrank.com/contests/projecteuler/challenges/euler046)
+47.
+48.
+49.
+50.
+51.
+52. [Permuted multiples](https://www.hackerrank.com/contests/projecteuler/challenges/euler052)
