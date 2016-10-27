@@ -56,3 +56,10 @@ List of problems:
 50.
 51.
 52. [Permuted multiples](https://www.hackerrank.com/contests/projecteuler/challenges/euler052)
+53.
+54.
+55.
+56.
+57.
+58.
+59. [XOR decryption](https://www.hackerrank.com/contests/projecteuler/challenges/euler059)
