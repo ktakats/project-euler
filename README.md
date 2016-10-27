@@ -51,7 +51,7 @@ List of problems:
 45. [Triangular, pentagonal, hexagonal](https://www.hackerrank.com/contests/projecteuler/challenges/euler045)
 46. [Goldbach's other conjecture](https://www.hackerrank.com/contests/projecteuler/challenges/euler046)
 47.
-48.
+48. [Self powers](https://www.hackerrank.com/contests/projecteuler/challenges/euler048)
 49.
 50.
 51.
