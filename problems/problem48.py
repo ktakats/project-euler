@@ -1,4 +1,4 @@
-#fastest
+#fastest - Fast modular exponentiation
 def fast_exp(num, n, mod):
     res=1
     while n>0:
