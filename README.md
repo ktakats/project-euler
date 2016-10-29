@@ -56,7 +56,7 @@ List of problems:
 50.
 51.
 52. [Permuted multiples](https://www.hackerrank.com/contests/projecteuler/challenges/euler052)
-53.
+53. [Combinatoric selections](https://www.hackerrank.com/contests/projecteuler/challenges/euler053)
 54.
 55.
 56.
