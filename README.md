@@ -18,7 +18,7 @@ List of problems:
 12. [Highly divisible triangular number](https://www.hackerrank.com/contests/projecteuler/challenges/euler012)
 13. [Large sum](https://www.hackerrank.com/contests/projecteuler/challenges/euler013)
 14. [Longest Collatz sequence](https://www.hackerrank.com/contests/projecteuler/challenges/euler014)
-15. []()
+15. [Lattice paths](https://www.hackerrank.com/contests/projecteuler/challenges/euler015)
 16. []()
 17. []()
 18. []()
