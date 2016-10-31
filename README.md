@@ -58,7 +58,7 @@ List of problems:
 52. [Permuted multiples](https://www.hackerrank.com/contests/projecteuler/challenges/euler052)
 53. [Combinatoric selections](https://www.hackerrank.com/contests/projecteuler/challenges/euler053)
 54.
-55.
+55. [Lychrel numbers](https://www.hackerrank.com/contests/projecteuler/challenges/euler055)
 56.
 57.
 58.
