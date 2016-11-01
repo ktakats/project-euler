@@ -19,7 +19,7 @@ List of problems:
 13. [Large sum](https://www.hackerrank.com/contests/projecteuler/challenges/euler013)
 14. [Longest Collatz sequence](https://www.hackerrank.com/contests/projecteuler/challenges/euler014)
 15. [Lattice paths](https://www.hackerrank.com/contests/projecteuler/challenges/euler015)
-16. []()
+16. [Power digit sum](https://www.hackerrank.com/contests/projecteuler/challenges/euler016)
 17. []()
 18. []()
 19. [Counting Sundays](https://www.hackerrank.com/contests/projecteuler/challenges/euler019)
