@@ -59,7 +59,7 @@ List of problems:
 53. [Combinatoric selections](https://www.hackerrank.com/contests/projecteuler/challenges/euler053)
 54.
 55. [Lychrel numbers](https://www.hackerrank.com/contests/projecteuler/challenges/euler055)
-56.
+56. [Powerful digit sum](https://www.hackerrank.com/contests/projecteuler/challenges/euler056)
 57.
 58.
 59. [XOR decryption](https://www.hackerrank.com/contests/projecteuler/challenges/euler059)
