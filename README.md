@@ -60,6 +60,6 @@ List of problems:
 54.
 55. [Lychrel numbers](https://www.hackerrank.com/contests/projecteuler/challenges/euler055)
 56. [Powerful digit sum](https://www.hackerrank.com/contests/projecteuler/challenges/euler056)
-57. [Square root convergents](https://www.hackerrank.com/contests/projecteuler/challenges/euler057) 
-58.
+57. [Square root convergents](https://www.hackerrank.com/contests/projecteuler/challenges/euler057)
+58. [Spiral primes] (https://www.hackerrank.com/contests/projecteuler/challenges/euler058) 
 59. [XOR decryption](https://www.hackerrank.com/contests/projecteuler/challenges/euler059)
