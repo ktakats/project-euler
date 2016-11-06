@@ -21,7 +21,7 @@ List of problems:
 15. [Lattice paths](https://www.hackerrank.com/contests/projecteuler/challenges/euler015)
 16. [Power digit sum](https://www.hackerrank.com/contests/projecteuler/challenges/euler016)
 17. [Number of words](https://www.hackerrank.com/contests/projecteuler/challenges/euler017)
-18. []()
+18. [Maximum path sum I](https://www.hackerrank.com/contests/projecteuler/challenges/euler018)
 19. [Counting Sundays](https://www.hackerrank.com/contests/projecteuler/challenges/euler019)
 20. [Factorial digit sum](https://www.hackerrank.com/contests/projecteuler/challenges/euler020/submissions/code/7274333)
 21. [Amicable numbers](https://www.hackerrank.com/contests/projecteuler/challenges/euler021)
