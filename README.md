@@ -63,3 +63,6 @@ List of problems:
 57. [Square root convergents](https://www.hackerrank.com/contests/projecteuler/challenges/euler057)
 58. [Spiral primes](https://www.hackerrank.com/contests/projecteuler/challenges/euler058)
 59. [XOR decryption](https://www.hackerrank.com/contests/projecteuler/challenges/euler059)
+60. []()
+61. []()
+62. [Cubic permutations](https://www.hackerrank.com/contests/projecteuler/challenges/euler062)
