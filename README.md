@@ -66,3 +66,4 @@ List of problems:
 60. []()
 61. []()
 62. [Cubic permutations](https://www.hackerrank.com/contests/projecteuler/challenges/euler062)
+63. [Powerful digit counts](https://www.hackerrank.com/contests/projecteuler/challenges/euler063)
