@@ -67,9 +67,10 @@ List of problems:
 61. []()
 62. [Cubic permutations](https://www.hackerrank.com/contests/projecteuler/challenges/euler062)
 63. [Powerful digit counts](https://www.hackerrank.com/contests/projecteuler/challenges/euler063)
-64. 
-65. 
-66. 
+64.
+65.
+66.
 67.
-68. 
+68.
 69. [Totient maximum](https://www.hackerrank.com/contests/projecteuler/challenges/euler069)
+70. [Totient permutation](https://www.hackerrank.com/contests/projecteuler/challenges/euler070)
