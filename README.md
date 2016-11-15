@@ -78,3 +78,5 @@ List of problems:
 72. [Counting fractions](https://www.hackerrank.com/contests/projecteuler/challenges/euler072)
 73.
 74. []
+75.
+76. [Counting summations](https://www.hackerrank.com/contests/projecteuler/challenges/euler076)
