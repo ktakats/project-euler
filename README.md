@@ -80,3 +80,4 @@ List of problems:
 74. []
 75.
 76. [Counting summations](https://www.hackerrank.com/contests/projecteuler/challenges/euler076)
+77. [Prime summations](ttps://www.hackerrank.com/contests/projecteuler/challenges/euler077)
