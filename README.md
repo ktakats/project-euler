@@ -80,4 +80,8 @@ List of problems:
 74. []
 75.
 76. [Counting summations](https://www.hackerrank.com/contests/projecteuler/challenges/euler076)
-77. [Prime summations](ttps://www.hackerrank.com/contests/projecteuler/challenges/euler077)
+77. [Prime summations](https://www.hackerrank.com/contests/projecteuler/challenges/euler077)
+78.
+79.
+80. 
+81. [Path sum: two ways](https://www.hackerrank.com/contests/projecteuler/challenges/euler081)
