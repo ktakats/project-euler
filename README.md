@@ -83,6 +83,6 @@ List of problems:
 77. [Prime summations](https://www.hackerrank.com/contests/projecteuler/challenges/euler077)
 78.
 79.
-80.
+80. [Square root digital expansion](https://www.hackerrank.com/contests/projecteuler/challenges/euler080)
 81. [Path sum: two ways](https://www.hackerrank.com/contests/projecteuler/challenges/euler081)
 82. [Path sum: three ways](https://www.hackerrank.com/contests/projecteuler/challenges/euler082)
