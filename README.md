@@ -86,3 +86,9 @@ List of problems:
 80. [Square root digital expansion](https://www.hackerrank.com/contests/projecteuler/challenges/euler080)
 81. [Path sum: two ways](https://www.hackerrank.com/contests/projecteuler/challenges/euler081)
 82. [Path sum: three ways](https://www.hackerrank.com/contests/projecteuler/challenges/euler082)
+83.
+84.
+85.
+86.
+87.
+88. [Product-sum numbers](https://www.hackerrank.com/contests/projecteuler/challenges/euler088)
