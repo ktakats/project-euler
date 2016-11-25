@@ -92,3 +92,13 @@ List of problems:
 86.
 87.
 88. [Product-sum numbers](https://www.hackerrank.com/contests/projecteuler/challenges/euler088)
+89.
+90.
+91.
+92.
+93.
+94.
+95.
+96.
+97.
+98. [Anagramic squares](https://www.hackerrank.com/contests/projecteuler/challenges/euler098)
