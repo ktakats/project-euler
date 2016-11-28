@@ -102,3 +102,7 @@ List of problems:
 96.
 97.
 98. [Anagramic squares](https://www.hackerrank.com/contests/projecteuler/challenges/euler098)
+99. [Largest exponential](https://www.hackerrank.com/contests/projecteuler/challenges/euler099)
+100.
+101.
+102.
