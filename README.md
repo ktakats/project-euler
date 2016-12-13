@@ -107,3 +107,4 @@ List of problems:
 101.
 102. [Triangle containment](https://www.hackerrank.com/contests/projecteuler/challenges/euler102)
 103. [Special subset sums: optimal](https://www.hackerrank.com/contests/projecteuler/challenges/euler103)
+113. [Non-bouncy numbers](https://www.hackerrank.com/contests/projecteuler/challenges/euler113)
